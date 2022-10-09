@@ -14,3 +14,6 @@ Do not write a essay about the problem. Be Specific and to the point. Try to sum
 
 ## 3) Environment Details:
 Include the version of ATCTrainer you are using and if relevent the airport or traffic file
+
+## 4) Follow Up:
+Even the most well written bug reports may need follow up to truly diagnose the cause of the bug. Once you have submitted a bug report, please monitor your email and check back periodically to provide extra information that is requested.
