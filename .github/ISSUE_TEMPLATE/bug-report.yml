@@ -2,6 +2,7 @@ name: Bug Report
 description: Submit a bug report for ATCTrainer.
 title: "[BUG] "
 labels: [bug]
+assignees: collink2451
 body:
   - type: markdown
     attributes:
@@ -12,7 +13,7 @@ body:
     attributes:
       label: What happened?
       description: Please include a clear and concise description of what the bug is.
-      placeholder: A description of what happened...
+      placeholder: 
     validations:
       required: true
   - type: input
@@ -20,7 +21,7 @@ body:
     attributes:
       label: What error response was returned (if applicable)?
       description: The error response.
-      placeholder: "{status: error, ...}"
+      placeholder: 
     validations:
       required: false
   - type: textarea
@@ -28,6 +29,6 @@ body:
     attributes:
       label: Screenshots
       description: Link to screenshots, if applicable.
-      placeholder: Screenshot links...
+      placeholder: 
     validations:
       required: false
