@@ -1,7 +1,8 @@
 name: Feature Request
 description: Submit a new feature request for ATCTrainer.
 title: "[FEAT] "
-labels: [enchancement]
+labels: [enhancement]
+assignees: collink2451
 body:
   - type: markdown
     attributes:
